@@ -4,6 +4,7 @@ title: Projects
 ---
 
 
+## Here are some projects created by Dr.~Rob White that will help us get started.
 
 Project | Description | Code | Output
 --- | --- | --- | ---
