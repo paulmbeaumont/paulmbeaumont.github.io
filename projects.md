@@ -21,7 +21,7 @@ Here are examples of research projects generated with R Studio using TidyR and R
 
 ## Using Shiny  
 
-[html]((https://datadogs87.shinyapps.io/shinyExample)
+[html](https://datadogs87.shinyapps.io/shinyExample)
 
 [code](https://github.com/datadogs87/shinyExample)
 
