@@ -7,14 +7,16 @@ Here are examples of research projects generated with R Studio using TidyR and R
 
 ## Did COVID-19 cases in Europe lead cases in the USA?
 
-HTML : [Covid-19](https://paulmbeaumont.github.io/CovidData)
+[html](https://paulmbeaumont.github.io/CovidData/)
 
-Rmd Code: [Covid-19](https://github.com/paulmbeaumont/CovidData)
+[code](https://github.com/paulmbeaumont/CovidData)
 
 
-## Using Shiny
+## Using Shiny  
 
-[shiny](https://github.com/datadogs87/shinyExample)
+[html](https://datadogs87/shinyapps.io/shinyExample)
+
+[code](https://github.com/datadogs87/shinyExample)
 
 ### Here are some projects created by Dr. Rob White that will help us get started.
 
