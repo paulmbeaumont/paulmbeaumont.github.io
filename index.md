@@ -1,9 +1,9 @@
 ---
 layout: page
-title: B
+title: Analysis of Economic Data
 ---
 
-## Analysis of Economic Data - Projects
+##  Projects
 <a> 
 <img src="pmb2.png" alt="pmb" width="250"/>
 </a>
