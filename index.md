@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Analysis of Economic Data
 ---
 
 <a> 
