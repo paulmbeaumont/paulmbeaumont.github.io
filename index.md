@@ -1,6 +1,6 @@
 ---
-title: "Analysis of Economic Data Projects"
 layout: page
+title: Home
 ---
 
 <a> 
