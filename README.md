@@ -19,7 +19,7 @@ You will find chapters: 4, 12, 15 and 16 essential for getting started.
 
 1.	Create a repository on GitHub with an appropriate name.
 2.	Link the repository to an RStudio Project.
-3.	Edit files in your RStudio project and make sure to name your “main” file as “index.rmd”.
+3.	Edit files in your RStudio project and make sure to name your “main” file as “index.Rmd”. Knit the file to produce "index.html".
 4.	Push & Commit your edits often.
 5.	In your RStudio Projects page, edit the “projects.md” file to add the project links to your new project.
 6.	Commit & Push
