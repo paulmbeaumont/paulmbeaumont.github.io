@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: TestTab
 ---
 
 This website serves as a demonstration of how the basic capabilities of [GitHub Pages](https://pages.github.com/) can be used to showcase a portfolio of student work in [RStudio](https://www.rstudio.com/) that is hosted on [GitHub](https://github.com/).
